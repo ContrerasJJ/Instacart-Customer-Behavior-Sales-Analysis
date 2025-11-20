@@ -143,14 +143,6 @@ Key findings include:
 - **notebook.ipynb** — full analysis  
 - **data/** — placeholder folder for dataset structure  
 
----
-
-## 🧑‍💻 Author
-Joseph Contreras  
-Aspiring Data Scientist | TripleTen Graduate  
-GitHub: https://github.com/ContrerasJJ
-** — full analysis  
-- **data/** — placeholder folder for dataset structure  
 
 ---
 
