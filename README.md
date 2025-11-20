@@ -7,7 +7,7 @@
 This project analyzes Instacart grocery order data to uncover insights about **customer purchasing behavior**, product demand, and ordering patterns.  
 The dataset is a modified version of Instacart’s 2017 Kaggle competition data.
 
-Your mission in the project was to:
+The mission in the project was to:
 - Clean and prepare the data  
 - Address missing and duplicate values  
 - Analyze ordering behavior across customers  
