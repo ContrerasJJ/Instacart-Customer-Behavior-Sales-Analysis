@@ -1,152 +1,94 @@
-# 🛒 Instacart EDA Analysis
-
-## 📌 Project Overview
-This project explores Instacart grocery order data to uncover customer purchasing behavior, ordering patterns, and insights that support inventory planning, marketing strategy, and customer segmentation.
-
-The dataset provided by TripleTen is a modified version of Instacart’s public 2017 dataset used in a Kaggle competition.
-
-This analysis focuses on:
-- Data cleaning (missing values, duplicates, formatting)
-- Customer shopping habits
-- Product and department popularity
-- Order frequency and re-order behavior
-- Visual identification of trends
-- Business recommendations based on customer activity
+# 🛒 Instacart EDA Analysis  
+**Exploratory Data Analysis • Customer Behavior Insights • Data Cleaning • Visualization • Python**
 
 ---
 
-## 🔍 Key Questions Addressed
+## 📌 Project Overview  
+This project analyzes Instacart grocery order data to uncover insights about **customer purchasing behavior**, product demand, and ordering patterns.  
+The dataset is a modified version of Instacart’s 2017 Kaggle competition data.
 
-- Which products are ordered the most frequently?
-- What departments contribute the highest order volume?
-- How often do customers reorder previously purchased items?
-- What patterns exist in order timing?
-- What factors influence repeat purchases?
-
----
-
-## 🧹 Data Cleaning Steps
-
-- Removed duplicate rows  
-- Handled missing values intelligently  
-- Standardized column formats  
-- Verified data distributions remain realistic  
-- Created new helper features for deeper analysis  
+Your mission in the project was to:
+- Clean and prepare the data  
+- Address missing and duplicate values  
+- Analyze ordering behavior across customers  
+- Produce visualizations that help understand Instacart's customer habits  
 
 ---
 
-## 📊 Analysis & Insights
+## 🎯 Business Questions  
+The analysis focuses on answering key business questions such as:
 
-Key findings include:
-- Certain departments (produce, dairy, snacks) dominate order volume  
-- Many customers show strong reorder behavior on staple items  
-- Shopping patterns shift depending on time of day and weekday  
-- High-frequency reorders reveal opportunities for targeted promotions  
+- **Which products are purchased most often?**  
+- **What are the busiest hours and days for orders?**  
+- **How frequently do customers reorder the same items?**  
+- **Which departments drive the most orders?**  
+- **What patterns reveal customer behavior and product demand?**
 
----
-
-## 🧠 Business Recommendations
-
-- Promote high-reorder items with loyalty incentives  
-- Optimize stock for high-frequency departments  
-- Target campaigns based on customer time of day ordering patterns  
-- Develop retention strategies centered on items with strong repeat behavior  
+These insights help optimize marketing, inventory planning, and operational decision-making.
 
 ---
 
-## 🛠️ Tools & Skills Used
+## 🧹 Data Cleaning Steps  
+The dataset included missing values, duplicates, and irregularities.  
+Cleaning steps included:
 
-- Python  
-- Pandas  
-- NumPy  
-- Seaborn  
-- Matplotlib  
-- EDA & Data Cleaning  
-- Customer behavior analysis  
-- Jupyter Notebook  
-
----
-
-## 📁 Project Files
-
-- **# 🛒 Instacart EDA Analysis
-
-## 📌 Project Overview
-This project explores Instacart grocery order data to uncover customer purchasing behavior, ordering patterns, and insights that support inventory planning, marketing strategy, and customer segmentation.
-
-The dataset provided by TripleTen is a modified version of Instacart’s public 2017 dataset used in a Kaggle competition.
-
-This analysis focuses on:
-- Data cleaning (missing values, duplicates, formatting)
-- Customer shopping habits
-- Product and department popularity
-- Order frequency and re-order behavior
-- Visual identification of trends
-- Business recommendations based on customer activity
+- Dropping duplicates  
+- Fixing inconsistent data types  
+- Handling missing values  
+- Merging Instacart datasets  
+- Validating that modified data kept original distributions  
 
 ---
 
-## 🔍 Key Questions Addressed
+## 📊 Key Analysis & Insights  
 
-- Which products are ordered the most frequently?
-- What departments contribute the highest order volume?
-- How often do customers reorder previously purchased items?
-- What patterns exist in order timing?
-- What factors influence repeat purchases?
+### 🥑 1. Most Ordered Products  
+Identified the highest demand products and departments.
 
----
+### 🕒 2. Order Timing Patterns  
+- Evening hours show the heaviest order volume  
+- Weekends show different shopping behavior than weekdays  
 
-## 🧹 Data Cleaning Steps
+### 🔁 3. Reorder Behavior  
+A significant share of orders come from customers re-purchasing previously bought items.
 
-- Removed duplicate rows  
-- Handled missing values intelligently  
-- Standardized column formats  
-- Verified data distributions remain realistic  
-- Created new helper features for deeper analysis  
+### 🏬 4. Top Departments  
+Produce and dairy dominate both order volume and reorder frequency.
 
 ---
 
-## 📊 Analysis & Insights
+## 🧪 Tools & Technologies  
 
-Key findings include:
-- Certain departments (produce, dairy, snacks) dominate order volume  
-- Many customers show strong reorder behavior on staple items  
-- Shopping patterns shift depending on time of day and weekday  
-- High-frequency reorders reveal opportunities for targeted promotions  
-
----
-
-## 🧠 Business Recommendations
-
-- Promote high-reorder items with loyalty incentives  
-- Optimize stock for high-frequency departments  
-- Target campaigns based on customer time-of-day ordering patterns  
-- Develop retention strategies centered on items with strong repeat behavior  
-
----
-
-## 🛠️ Tools & Skills Used
-
-- Python  
-- Pandas  
-- NumPy  
-- Seaborn  
-- Matplotlib  
-- EDA & Data Cleaning  
-- Customer behavior analysis  
-- Jupyter Notebook  
-
----
-
-## 📁 Project Files
-
-- **notebook.ipynb** — full analysis  
-- **data/** — placeholder folder for dataset structure  
+- **Python**  
+- **Pandas**  
+- **NumPy**  
+- **Matplotlib**  
+- **Seaborn**  
+- **Jupyter Notebook**  
+- **Exploratory Data Analysis (EDA)**  
+- **Data Cleaning & Preprocessing**
 
 
 ---
 
-## 🧑‍💻 Author
-Joseph Contreras  
+## 🚀 Results Summary  
+
+This project demonstrates the ability to:
+
+- Clean and preprocess realworld datasets  
+- Identify behavioral patterns across customers  
+- Visualize ordering patterns and product demand  
+- Generate insights that support inventory, marketing, and customer experience decisions  
+
+These findings highlight valuable skills relevant for **data analyst** and **data scientist** roles.
+
+---
+
+## 👤 Author  
+
+**Joseph Contreras**  
 Aspiring Data Scientist | TripleTen Graduate  
-GitHub: https://github.com/ContrerasJJ
+
+🔗 GitHub Profile: https://github.com/ContrerasJJ  
+🔗 Project Repo: https://github.com/ContrerasJJ/Instacart-EDA-Analysis  
+
