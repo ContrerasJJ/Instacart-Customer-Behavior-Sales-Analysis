@@ -1,6 +1,7 @@
 # 🛒 Instacart Customer Behavior & Sales Analysis
 **Exploratory Data Analysis • Customer Behavior Insights • Data Cleaning • Visualization • Python**
 📊 Analyzing 3M+ grocery orders to uncover customer purchasing patterns and business insights
+
 ---
 
 ## 📌 Project Overview  
