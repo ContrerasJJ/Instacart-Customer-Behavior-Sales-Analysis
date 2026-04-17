@@ -150,6 +150,14 @@ These findings highlight valuable skills relevant for **data analyst** and **dat
 
 ---
 
+## ▶️ How to Run This Project
+
+1. Clone the repository:
+```bash
+git clone https://github.com/ContrerasJJ/Instacart-EDA-Analysis.git
+
+---
+
 ## 👤 Author  
 
 **Joseph Contreras**  
